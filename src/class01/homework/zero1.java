@@ -27,5 +27,6 @@ public class zero1 {
         System.out.println(" ");
         System.out.println(URL);
 
+        driver.close();
     }
 }
